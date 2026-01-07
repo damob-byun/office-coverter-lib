@@ -4,7 +4,8 @@ After=syslog.target network.target
 
 [Service]
 Type=forking
-Environment="JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64/"
+Environment="JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64"
+Environment="JRE_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre"
 ExecStart=/home/ubuntu/current_tomcat/bin/startup.sh
 ExecStop=/home/ubuntu/current_tomcat/bin/shutdown.sh
 

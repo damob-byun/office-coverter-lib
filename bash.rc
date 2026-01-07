@@ -8,4 +8,4 @@ genJAVA_OPTS()
 genJAVA_OPTS
 
 export JAVA_OPTS="$JAVA_OPTS -Dfile.encoding=\"utf-8\""
-export LD_LIBRARY_PATH=/home/ubuntu/office-converter-lib/bin:$LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/home/ubuntu/office-coverter-lib/bin:$LD_LIBRARY_PATH
