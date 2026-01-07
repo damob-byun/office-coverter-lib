@@ -1,0 +1,11 @@
+genJAVA_OPTS()
+{
+	MEM=$((`free | grep Mem: | awk '{print $2}'`/4096))
+	[ $MEM -gt 3000 ] && MEM=3000
+	JAVA_OPTS="-Xms32m -Xmx${MEM}m"
+}
+
+genJAVA_OPTS
+
+export JAVA_OPTS="$JAVA_OPTS -Dfile.encoding=\"utf-8\""
+export LD_LIBRARY_PATH=/home/ubuntu/office-converter-lib/bin:$LD_LIBRARY_PATH

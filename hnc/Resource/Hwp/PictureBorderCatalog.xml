@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<h:drawing xmlns:h="urn:haansoft:names:tc:opendocument:xmlns:hoffice:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0"
+
+xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+
+xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+  <h:body>
+	<p:spTree>
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="108000" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="000000"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="76200" dist="76200" dir="27000000" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//1
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="108000" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="FFFFFF"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="127000" dist="76200" dir="27000000" rotWithShape="0" kx="0" sy="100000">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//2
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="975F31"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="127000" dist="76200" dir="27000000" rotWithShape="0" kx="0" sy="100000">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//3
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="252000" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="000000"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="27000000" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="50000" dist="0" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//4
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cmpd="thinThick" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="FFFFFF"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="127000" dist="25400" dir="0" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="60000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="55000" dist="50800" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+			<a:glow rad="101600">
+			  <a:srgbClr val="000000">
+			  <a:alpha val="30000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//5
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cmpd="thinThick" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="5252C7"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="0" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="50000" dist="50800" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+			<a:glow rad="127000">
+			  <a:srgbClr val="E8B8B8">
+			  <a:alpha val="50000"/>
+		  </a:srgbClr>
+			</a:glow>
+			<a:softEdge rad="12700"/>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//6
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cmpd="tri" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="000000"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="76200" dist="0" dir="13500000" rotWithShape="0" kx="-1500000" sy="25000">
+			  <a:prstClr val="black">
+				<a:alpha val="30000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+			<a:glow rad="63500">
+			  <a:srgbClr val="000000">
+			  <a:alpha val="30000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//7
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cmpd="dbl" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="FFFFFF"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="76200" dist="0" dir="13500000" rotWithShape="0" kx="-1500000" sy="25000">
+			  <a:prstClr val="black">
+				<a:alpha val="30000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+			<a:glow rad="63500">
+			  <a:srgbClr val="000000">
+			  <a:alpha val="30000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//8
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="180000" cmpd="thinThick" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="2BAEE9"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="76200" dist="0" dir="13500000" rotWithShape="0" kx="-1500000" sy="25000">
+			  <a:prstClr val="black">
+				<a:alpha val="30000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+			<a:glow rad="63500">
+			  <a:srgbClr val="FFC900">
+			  <a:alpha val="50000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//9
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="144000" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="000000"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="9000000" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="35000" dist="152400" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+			<a:glow rad="190500">
+			  <a:srgbClr val="F32626">
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//10
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="252000" cmpd="tri" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="4C4C4C"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="0" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="35000" dist="101600" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+			<a:glow rad="63500">
+			  <a:srgbClr val="000000">
+			  <a:alpha val="30000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//11
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="144000" cap="sq">
+			<a:solidFill>
+			  <a:srgbClr val="1b3b59"/>
+			</a:solidFill>
+			<a:miter lim="800000"/>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="9000000" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="35000" dist="50800" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//12
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="144000" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="918735"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:innerShdw blurRad="76200" dist="76200" dir="9000000" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:glow rad="190500">
+			  <a:srgbClr val="12A2B4">
+			  <a:alpha val="50000"/>
+		  </a:srgbClr>
+			</a:glow>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//13
+	  <p:sp>
+		<p:spPr bwMode="auto">
+		  <a:ln w="252000" cap="rnd">
+			<a:solidFill>
+			  <a:srgbClr val="E7E7E7"/>
+			</a:solidFill>
+		  </a:ln>
+		  <a:effectLst>
+			<a:outerShdw blurRad="76200" dist="76200" dir="27000000" rotWithShape="0" kx="0" sy="100000">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:outerShdw>
+			<a:softEdge rad="63500"/>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//14
+	  <p:sp>
+		<p:spPr bwMode="auto">
+
+		  <a:effectLst>
+			<a:innerShdw blurRad="152400" dist="0" dir="0" rotWithShape="0">
+			  <a:prstClr val="black">
+				<a:alpha val="50000"/>
+			  </a:prstClr>
+			</a:innerShdw>
+			<a:reflection blurRad="6350" stA="50000" endA="275" endPos="35000" dist="0" dir="5400000" sy="-100000" algn="bl" rotWithShape="0"/>
+			<a:softEdge rad="190500"/>
+		  </a:effectLst>
+		</p:spPr>
+	  </p:sp>
+//15
+	</p:spTree>
+  </h:body>
+</h:drawing>

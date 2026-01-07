@@ -1,0 +1,20 @@
+[Unit]
+Description=tomcat9
+After=syslog.target network.target
+
+[Service]
+Type=forking
+Environment="JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64/"
+ExecStart=/home/ubuntu/current_tomcat/bin/startup.sh
+ExecStop=/home/ubuntu/current_tomcat/bin/shutdown.sh
+
+User=root
+Group=root
+WorkingDirectory=/root
+UMask=0002
+RestartSec=10
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+
